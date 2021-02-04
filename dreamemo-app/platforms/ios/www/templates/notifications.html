@@ -1,0 +1,29 @@
+<ion-view view-title="Notifications">
+  <ion-content scroll="false">
+	<div class="blurred-bg"></div>
+	<div class="notifications-container">
+		<ion-list>
+		<ion-item>
+          <ion-label>Notifications (coming soon)</ion-label>
+          <div class="item-description">Turn on to receive all notifications from the app.</div>
+          <ion-toggle ng-disabled="true" checked="false" ng-model="allNotif"></ion-toggle>
+        </ion-item>
+		<ion-item>
+          <ion-label>General Notifications (coming soon)</ion-label>
+          <div class="item-description">Turn on to receive general notifications from the app.</div>
+          <ion-toggle ng-disabled="true" checked="false" ng-model="genNotif"></ion-toggle>
+        </ion-item>
+        <ion-item>
+          <ion-label>Memo Notifications (coming soon)</ion-label>
+          <div class="item-description">Turn on to receive daily reminders about recording in your memo.</div>
+          <ion-toggle ng-disabled="true" checked="false" ng-model="memoNotif"></ion-toggle>
+        </ion-item>
+        <ion-item>
+          <ion-label>Quote Notifications (coming soon)</ion-label>
+          <div class="item-description">Turn on to receive daily notifications of inspirational quotes.</div>
+          <ion-toggle ng-disabled="true" checked="false" ng-model="quoteNotif"></ion-toggle>
+        </ion-item>
+      </ion-list>
+     </div>
+	</ion-content>
+</ion-view>

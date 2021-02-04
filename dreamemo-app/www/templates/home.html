@@ -1,0 +1,47 @@
+<ion-view view-title="dreamemo">
+  <ion-content scroll="false">
+    <div class="background-container">
+    	<!-- <ul class="background">
+    		<li></li>
+    	</ul> -->
+  			<div class="date-time">{{ formatDate(date) }}</div>
+  			<div class="greeting">{{ greeting }}, {{ user.name }}.</div>
+  			<div class="quote">
+  				<div class="quote-content">"{{ quote.content }}"</div>
+  				<div class="quote-author">{{ quote.author }}</div>
+  			</div>
+  			<div class="footbar">
+  				<div class="button-container" ng-hide="musicPlaying" >
+	  				<button type="button" class="btn btn-clear" ng-click="play()">
+	  					<i class="ion-play"></i>
+	  				</button>
+  					<div class="button-description">Play</div>
+	  			</div>
+  				<div class="button-container" ng-show="musicPlaying">
+	  				<button type="button" class="btn btn-clear" ng-click="pause()">
+	  					<i class="ion-pause"></i>
+	  				</button>
+  					<div class="button-description">Pause</div>
+	  			</div>
+	  			<div class="button-container">
+	  				<button type="button" class="btn btn-clear" ng-click="updateBackground()">
+	  					<i class="ion-image"></i>
+	  				</button>
+  					<div class="button-description">Change</div>
+	  			</div>
+  				<div class="button-container">
+	  				<button type="button" class="btn btn-clear" ng-click="openMemoModal()">
+	  					<i class="ion-compose"></i>
+	  				</button>
+	  				<div class="button-description">Memo</div>
+	  			</div>
+  				<!-- <div class="button-container">
+	  				<button type="button" class="btn btn-clear" ng-click="openPlaylistModal()">
+	  					<i class="ion-music-note"></i>
+	  				</button>
+	  				<div class="button-description">Playlist</div>
+	  			</div> -->
+  			</div>
+  		</div>
+  </ion-content>
+</ion-view>

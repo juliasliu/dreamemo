@@ -1,0 +1,49 @@
+<ion-view>
+  <ion-content scroll="false">
+  	<div class="login-container">
+  		<img src="img/icon.png" class="title-icon"/>
+  		<div class="title">dreamemo</div>
+  		<div class="caption">calm. ambience. dreams.</div>
+  		<div class="login-navbar">
+			<div class="active" id="login-tab" ng-click="switchTab('login')">Login</div>
+			<div id="register-tab" ng-click="switchTab('register')">Register</div>
+		</div>
+	    <form ng-submit="login()" ng-show="loginView == 'login'">
+	      <div class="list">
+	        <label class="item item-input">
+	          <input type="text" ng-model="user.username" placeholder="username">
+	        </label>
+	        <label class="item item-input">
+	          <input type="password" ng-model="user.password" placeholder="•••••••">
+	        </label>
+	        <label class="item submit-button">
+	          <button class="button button-block button-positive" type="submit">Log in</button>
+	        </label>
+	      </div>
+	    </form>
+	    <form ng-submit="register()" ng-show="loginView == 'register'">
+	      	<ion-scroll direction="y">
+	      <div class="list">
+	      	<label class="item item-input">
+	          <input type="text" ng-model="user.name" placeholder="Full Name">
+	        </label>
+	      	<label class="item item-input">
+	          <input type="text" ng-model="user.email" placeholder="email">
+	        </label>
+	        <label class="item item-input">
+	          <input type="text" ng-model="user.username" placeholder="username">
+	        </label>
+	        <label class="item item-input">
+	          <input type="password" ng-model="user.password" placeholder="•••••••">
+	        </label>
+	        <label class="item submit-button">
+	          <button class="button button-block button-positive" type="submit">Sign up</button>
+	        </label>
+	      </div>
+	        </ion-scroll>
+	    </form>
+	    <button type="button" class="button btn-clear mute-button" ng-hide="muted" ng-click="mute()"><i class="ion-android-volume-up"></i></button>
+	    <button type="button" class="button btn-clear mute-button" ng-show="muted" ng-click="unmute()"><i class="ion-android-volume-off"></i></button>
+    </div>
+  </ion-content>
+</ion-view>

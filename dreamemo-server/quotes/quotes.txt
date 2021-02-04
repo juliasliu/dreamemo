@@ -1,0 +1,1653 @@
+2018.
+
+month: 1
+day: 5
+content: Doubt kills more dreams than failure ever will.
+author: Suzy Kassem
+
+month: 1
+day: 6
+content: Obstacles are those frightful things you see when you take your eyes off your goals.
+author: Henry Ford
+
+month: 1
+day: 7
+content: I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+author: Bruce Lee
+
+month: 1
+day: 8
+content: This is the real secret to life—to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.
+author: Alan Watts
+
+month: 1
+day: 9
+content: Do one thing every day that scares you.
+author: Eleanor Roosevelt
+
+month: 1
+day: 10
+content: The best way out is always through.
+author: Robert Frost
+
+month: 1
+day: 11
+content: Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.
+author: Bertrand Russell
+
+month: 1
+day: 12
+content: We ought to walk through the rooms of our lives not looking for flaws, but looking for potential.
+author: Ellen Goodman
+
+month: 1
+day: 13
+content: There is real magic in enthusiasm. It spells the difference between mediocrity and accomplishment.
+author: Norman Vincent Peale
+
+month: 1
+day: 14
+content: The meaning of life is to find your gift. The purpose of life is to give it away.
+author: David Viscott
+
+month: 1
+day: 15
+content: The cure to boredom is curiosity. There is no cure for curiosity.
+author: Dorothy Parker
+
+month: 1
+day: 16
+content: Life has no limitations, except the ones you make.
+author: Les Brown
+
+month: 1
+day: 17
+content: If you can change your mind, you can change your life.
+author: William James
+
+month: 1
+day: 18
+content: To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.
+author: Ralph Waldo Emerson
+
+month: 1
+day: 19
+content: If you want to conquer fear, don't sit home and think about it. Go out and get busy.
+author: Dale Carnegie
+
+month: 1
+day: 20
+content: One who knows all the answers has not been asked all the questions.
+author: Confucius
+
+month: 1
+day: 21
+content: Fear does not prevent death. It prevents life.
+author: Naguib Mahfouz
+
+month: 1
+day: 22
+content: There is only one person who could ever make you happy, and that person is you.
+author: David Burns
+
+month: 1
+day: 23
+content: Why fit in when you were born to stand out?
+author: Dr. Seuss
+
+month: 1
+day: 24
+content: The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.
+author: Jordan Belfort
+
+month: 1
+day: 25
+content: You can't climb the ladder of success with your hands in your pockets.
+author: Arnold Schwarzenegger
+
+month: 1
+day: 26
+content: Your world is a living expression of how you are using—and have used—your mind.
+author: Earl Nightingale
+
+month: 1
+day: 27
+content: When you meet people, show real appreciation, then genuine curiosity.
+author: Martha Beck
+
+month: 1
+day: 28
+content: Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day whispering, 'I will try again tomorrow.'
+author: Mary Anne Radmacher
+
+month: 1
+day: 29
+content: When you judge others, you do not define them; you define yourself.
+author: Earl Nightingale
+
+month: 1
+day: 30
+content: Unless you try to do something beyond what you have already mastered you will never grow.
+author: Ralph Waldo Emerson
+
+month: 1
+day: 31
+content: Never give up, for that is just the place and time that the tide will turn.
+author: Harriet Beecher Stowe
+
+month: 2
+day: 1
+content: Success is something you attract by the person you become.
+author: Jim Rohn
+
+month: 2
+day: 2
+content: If you don't like where you are, change it. You're not a tree.
+author: Jim Rohn
+
+month: 2
+day: 3
+content: If you fear failure, you will never go anywhere.
+author: Unknown
+
+month: 2
+day: 4
+content: Excuses are born out of fear. Eliminate your fear and there will be no excuses.
+author: Unknown
+
+month: 2
+day: 5
+content: Stop managing your time. Start managing your focus.
+author: Robin Sharma
+
+month: 2
+day: 6
+content: There is no person living who isn't capable of doing more than they think they can do.
+author: Henry Ford
+
+month: 2
+day: 7
+content: Without new experiences, something inside of us sleeps. The sleeper must awaken.
+author: Frank Herbet
+
+month: 2
+day: 8
+content: Magic is believing in yourself, if you can do that, you can make anything happen.
+author: Johann Wolfgang Von Goethe
+
+month: 2
+day: 9
+content: The struggle ends when the gratitude begins.
+author: Neale Donald Walsch
+
+month: 2
+day: 10
+content: Don't find fault. Find a remedy.
+author: Henry Ford
+
+month: 2
+day: 11
+content: The best way to predict the future is to create it.
+author: Peter Drucker
+
+month: 2
+day: 12
+content: Nothing is impossible, the word itself says “I’m possible”!
+author: Audrey Hepburn
+
+month: 2
+day: 13
+content: I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.
+author: Maya Angelou
+
+month: 2
+day: 14
+content: Whether you think you can or you think you can’t, you’re right.
+author: Henry Ford
+
+month: 2
+day: 15
+content: Perfection is not attainable, but if we chase perfection we can catch excellence.
+author: Vince Lombardi
+
+month: 2
+day: 16
+content: Life is 10% what happens to me and 90% of how I react to it.
+author: Charles Swindoll
+
+month: 2
+day: 17
+content: If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.
+author: Oprah Winfrey
+
+month: 2
+day: 18
+content: I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.
+author: Jimmy Dean
+
+month: 2
+day: 19
+content: Believe you can and you’re halfway there.
+author: Theodore Roosevelt
+
+month: 2
+day: 20
+content: To handle yourself, use your head; to handle others, use your heart.
+author: Eleanor Roosevelt
+
+month: 2
+day: 21
+content: Too many of us are not living our dreams because we are living our fears.
+author: Les Brown
+
+month: 2
+day: 22
+content: Do or do not. There is no try.
+author: Yoda
+
+month: 2
+day: 23
+content: Whatever the mind of man can conceive and believe, it can achieve.
+author: Napoleon Hill
+
+month: 2
+day: 24
+content: Strive not to be a success, but rather to be of value.
+author: Albert Einstein
+
+month: 2
+day: 25
+content: I am not a product of my circumstances. I am a product of my decisions.
+author: Stephen Covey
+
+month: 2
+day: 26
+content: When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
+author: Henry Ford
+
+month: 2
+day: 27
+content: The most common way people give up their power is by thinking they don’t have any. 
+author: Alice Walker
+
+month: 2
+day: 28
+content: The most difficult thing is the decision to act, the rest is merely tenacity.
+author: Amelia Earhart
+
+month: 3
+day: 1
+content: It is during our darkest moments that we must focus to see the light.
+author: Aristotle Onassis
+
+month: 3
+day: 2
+content: Don’t judge each day by the harvest you reap but by the seeds that you plant.
+author: Robert Louis Stevenson
+
+month: 3
+day: 3
+content: When you reach the end of your rope, tie a knot in it and hang on.
+author: Franklin D. Roosevelt
+
+month: 3
+day: 4
+content: The only way to do great work is to love what you do.
+author: Steve Jobs
+
+month: 3
+day: 5
+content: The question isn’t who is going to let me; it’s who is going to stop me.
+author: Ayn Rand
+
+month: 3
+day: 6
+content: If you hear a voice within you say "you cannot paint," then by all means paint and that voice will be silenced.
+author: Vincent Van Gogh
+
+month: 3
+day: 7
+content: Build your own dreams, or someone else will hire you to build theirs.
+author: Farrah Gray
+
+month: 3
+day: 8
+content: Remember that not getting what you want is sometimes a wonderful stroke of luck.
+author: Dalai Lama
+
+month: 3
+day: 9
+content: You can’t use up creativity. The more you use, the more you have.
+author: Maya Angelou
+
+month: 3
+day: 10
+content: I have learned over the years that when one’s mind is made up, this diminishes fear.
+author: Rosa Parks
+
+month: 3
+day: 11
+content: I would rather die of passion than of boredom.
+author: Vincent Van Gogh
+
+month: 3
+day: 12
+content: A truly rich man is one whose children run into his arms when his hands are empty.
+author: Unknown
+
+month: 3
+day: 13
+content: A person who never made a mistake never tried anything new.
+author: Albert Einstein
+
+month: 3
+day: 14
+content: What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.
+author: Bob Dylan
+
+month: 3
+day: 15
+content: I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+author: Leonardo Da Vinci
+
+month: 3
+day: 16
+content: If you want to lift yourself up, lift up someone else.
+author: Booker T. Washington
+
+month: 3
+day: 17
+content: Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.
+author: Jamie Paolinetti
+
+month: 3
+day: 18
+content: If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.
+author: Sheryl Sandberg
+
+month: 3
+day: 19
+content: Certain things catch your eye, but pursue only those that capture the heart.
+author: Ancient Indian Proverb
+
+month: 3
+day: 20
+content: When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.
+author: Helen Keller
+
+month: 3
+day: 21
+content: Everything has beauty, but not everyone can see.
+author: Confucius
+
+month: 3
+day: 22
+content: How wonderful it is that nobody need wait a single moment before starting to improve the world.
+author: Anne Frank
+
+month: 3
+day: 23
+content: The only person you are destined to become is the person you decide to be.
+author: Ralph Waldo Emerson
+
+month: 3
+day: 24
+content: We can’t help everyone, but everyone can help someone.
+author: Ronald Reagan
+
+month: 3
+day: 25
+content: Everything you’ve ever wanted is on the other side of fear.
+author: George Addair
+
+month: 3
+day: 26
+content: We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.
+author: Plato
+
+month: 3
+day: 27
+content: Nothing will work unless you do.
+author: Maya Angelou
+
+month: 3
+day: 28
+content: I alone cannot change the world, but I can cast a stone across the water to create many ripples.
+author: Mother Teresa
+
+month: 3
+day: 29
+content: What we achieve inwardly will change outer reality.
+author: Plutarch
+
+month: 3
+day: 30
+content: The way to get started is to quit talking and begin doing.
+author: Walt Disney
+
+month: 3
+day: 31
+content: The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.
+author: Winston Churchill
+
+month: 4
+day: 1
+content: Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+author: Norman Vincent Peale
+
+month: 4
+day: 2
+content: If you can dream it, you can do it.
+author: Walt Disney
+
+month: 4
+day: 3
+content: Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.
+author: George Whitefield
+
+month: 4
+day: 4
+content: The future belongs to those who believe in the beauty of their dreams.
+author: Eleanor Roosevelt
+
+month: 4
+day: 5
+content: Don’t watch the clock; do what it does. Keep going.
+author: Sam Levenson
+
+month: 4
+day: 6
+content: There will be obstacles. There will be doubters. There will be mistakes. But with hard work, there are no limits.
+author: Michael Phelps
+
+month: 4
+day: 7
+content: Keep your eyes on the stars, and your feet on the ground.
+author: Theodore Roosevelt
+
+month: 4
+day: 8
+content: We aim above the mark to hit the mark.
+author: Ralph Waldo Emerson
+
+month: 4
+day: 9
+content: One way to keep momentum going is to have constantly greater goals.
+author: Michael Korda
+
+month: 4
+day: 10
+content: Change your life today. Don’t gamble on the future, act now, without delay.
+author: Simone de Beauvoir
+
+month: 4
+day: 11
+content: You just can’t beat the person who never gives up.
+author: Babe Ruth
+
+month: 4
+day: 12
+content: Start where you are. Use what you have. Do what you can.
+author: Arthur Ashe
+
+month: 4
+day: 13
+content: Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn’t… will be priceless.
+author: Kevin Ngo
+
+month: 4
+day: 14
+content: Never give up, for that is just the place and time that the tide will turn.
+author: Harriet Beecher Stowe
+
+month: 4
+day: 15
+content: If you want to achieve greatness stop asking for permission.
+author: Unknown
+
+month: 4
+day: 16
+content: Things work out best for those who make the best of how things work out.
+author: John Wooden
+
+month: 4
+day: 17
+content: To live a creative life, we must lose our fear of being wrong.
+author: Unknown
+
+month: 4
+day: 18
+content: If you are not willing to risk the usual you will have to settle for the ordinary.
+author: Jim Rohn
+
+month: 4
+day: 19
+content: Trust because you are willing to accept the risk, not because it’s safe or certain.
+author: Unknown
+
+month: 4
+day: 20
+content: Good things come to people who wait, but better things come to those who go out and get them.
+author: Unknown
+
+month: 4
+day: 21
+content: If you do what you always did, you will get what you always got.
+author: Unknown
+
+month: 4
+day: 22
+content: Success is walking from failure to failure with no loss of enthusiasm.
+author: Winston Churchill
+
+month: 4
+day: 23
+content: Just when the caterpillar thought the world was ending, he turned into a butterfly.
+author: Proverb
+
+month: 4
+day: 24
+content: Successful entrepreneurs are givers and not takers of positive energy.
+author: Unknown
+
+month: 4
+day: 25
+content: Whenever you see a successful person you only see the public glories, never the private sacrifices to reach them. 
+author: Vaibhav Shah
+
+month: 4
+day: 26
+content: Opportunities don’t happen, you create them.
+author: Chris Grosser
+
+month: 4
+day: 27
+content: Great minds discuss ideas; average minds discuss events; small minds discuss people.
+author: Eleanor Roosevelt
+
+month: 4
+day: 28
+content: I have not failed. I’ve just found 10,000 ways that won’t work.
+author: Thomas A. Edison
+
+month: 4
+day: 29
+content: If you don’t value your time, neither will others. Stop giving away your time and talents- start charging for it.
+author: Kim Garst
+
+month: 4
+day: 30
+content: A successful man is one who can lay a firm foundation with the bricks others have thrown at him.
+author: David Brinkley
+
+month: 5
+day: 1
+content: No one can make you feel inferior without your consent.
+author: Eleanor Roosevelt
+
+month: 5
+day: 2
+content: The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.
+author: Henry Ford
+
+month: 5
+day: 3
+content: If you’re going through hell keep going.
+author: Winston Churchill
+
+month: 5
+day: 4
+content: The ones who are crazy enough to think they can change the world, are the ones that do.
+author: Unknown
+
+month: 5
+day: 5
+content: Don’t raise your voice, improve your argument.
+author: Unknown
+
+month: 5
+day: 6
+content: What seems to us as bitter trials are often blessings in disguise.
+author: Oscar Wilde
+
+month: 5
+day: 7
+content: The meaning of life is to find your gift. The purpose of life is to give it away.
+author: Unknown
+
+month: 5
+day: 8
+content: The distance between insanity and genius is measured only by success.
+author: Bruce Feirstein
+
+month: 5
+day: 9
+content: When you stop chasing the wrong things you give the right things a chance to catch you.
+author: Lolly Daskal
+
+month: 5
+day: 10
+content: Don't find fault. Find a remedy.
+author: Henry Ford
+
+month: 5
+day: 11
+content: Don’t be afraid to give up the good to go for the great.
+author: John D. Rockefeller
+
+month: 5
+day: 12
+content: No masterpiece was ever created by a lazy artist.
+author: Unknown
+
+month: 5
+day: 13
+content: Happiness is a butterfly, which when pursued, is always beyond your grasp, but which, if you will sit down quietly, may alight upon you.
+author: Nathaniel Hawthorne
+
+month: 5
+day: 14
+content: If you can’t explain it simply, you don’t understand it well enough.
+author: Albert Einstein
+
+month: 5
+day: 15
+content: Blessed are those who can give without remembering and take without forgetting.
+author: Unknown
+
+month: 5
+day: 16
+content: What’s the point of being alive if you don’t at least try to do something remarkable.
+author: Unknown
+
+month: 5
+day: 17
+content: Life is not about finding yourself. Life is about creating yourself.
+author: Lolly Daskal
+
+month: 5
+day: 18
+content: Nothing in the world is more common than unsuccessful people with talent.
+author: Unknown
+
+month: 5
+day: 19
+content: Knowledge is being aware of what you can do. Wisdom is knowing when not to do it.
+author: Unknown
+
+month: 5
+day: 20
+content: Innovation distinguishes between a leader and a follower.
+author: Steve Jobs
+
+month: 5
+day: 21
+content: There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed.
+author: Ray Goforth
+
+month: 5
+day: 22
+content: Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.
+author: Dr. APJ Kalam
+
+month: 5
+day: 23
+content: I find that the harder I work, the more luck I seem to have.
+author: Thomas Jefferson
+
+month: 5
+day: 24
+content: The starting point of all achievement is desire.
+author: Napoleon Hill
+
+month: 5
+day: 25
+content: Success is the sum of small efforts, repeated day-in and day-out.
+author: Robert Collier
+
+month: 5
+day: 26
+content: If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.
+author: Thomas J. Watson
+
+month: 5
+day: 27
+content: All progress takes place outside the comfort zone.
+author: Michael John Bobak
+
+month: 5
+day: 28
+content: You may only succeed if you desire succeeding; you may only fail if you do not mind failing.
+author: Philippos
+
+month: 5
+day: 29
+content: Courage is resistance to fear, mastery of fear - not absense of fear.
+author: Mark Twain
+
+month: 5
+day: 30
+content: Only put off until tomorrow what you are willing to die having left undone.
+author: Pablo Picasso
+
+month: 5
+day: 31
+content: People often say that motivation doesn’t last. Well, neither does bathing - that’s why we recommend it daily.
+author: Zig Ziglar
+
+month: 6
+day: 1
+content: We become what we think about most of the time, and that’s the strangest secret.
+author: Earl Nightingale
+
+month: 6
+day: 2
+content: The only place where success comes before work is in the dictionary.
+author: Vidal Sassoon
+
+month: 6
+day: 3
+content: The best reason to start an organization is to make meaning; to create a product or service to make the world a better place.
+author: Guy Kawasaki
+
+month: 6
+day: 4
+content: I find that when you have a real interest in life and a curious life, that sleep is not the most important thing.
+author: Martha Stewart
+
+month: 6
+day: 5
+content: It’s not what you look at that matters, it’s what you see.
+author: Unknown
+
+month: 6
+day: 6
+content: The road to success and the road to failure are almost exactly the same.
+author: Colin R. Davis
+
+month: 6
+day: 7
+content: The function of leadership is to produce more leaders, not more followers.
+author: Ralph Nader
+
+month: 6
+day: 8
+content: Success is liking yourself, liking what you do, and liking how you do it.
+author: Maya Angelou
+
+month: 6
+day: 9
+content: As we look ahead into the next century, leaders will be those who empower others.
+author: Bill Gates
+
+month: 6
+day: 10
+content: The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.
+author: Mark Caine
+
+month: 6
+day: 11
+content: When I dare to be powerful - to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+author: Audre Lorde
+
+month: 6
+day: 12
+content: I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
+author: Robert H. Schuller
+
+month: 6
+day: 13
+content: By failing to prepare, you are preparing to fail.
+author: Benjamin Franklin
+
+month: 6
+day: 14
+content: By failing to prepare, you are preparing to fail.
+author: Benjamin Franklin
+
+month: 6
+day: 15
+content: Do something wonderful, people may imitate it.
+author: Albert Schweitzer
+
+month: 6
+day: 16
+content: If you don't like how things are, change it! You're not a tree.
+author: Jim Rohn
+
+month: 6
+day: 17
+content: If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
+author: John D. Rockefeller
+
+month: 6
+day: 18
+content: The harder the conflict, the more glorious the triumph.
+author: Thomas Paine
+
+month: 6
+day: 19
+content: Either you run the day or the day runs you.
+author: Jim Rohn
+
+month: 6
+day: 20
+content: I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+author: Muhammad Ali
+
+month: 6
+day: 21
+content: Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.
+author: George Herbert
+
+month: 6
+day: 22
+content: Perseverance is failing 19 times and succeeding the 20th.
+author: Julie Andrews
+
+month: 6
+day: 23
+content: A goal is a dream with a deadline.
+author: Napoleon Hill
+
+month: 6
+day: 24
+content: There's a way to do it better - find it.
+author: Thomas A. Edison
+
+month: 6
+day: 25
+content: Opportunity does not knock, it presents itself when you beat down the door.
+author: Kyle Chandler
+
+month: 6
+day: 26
+content: Opportunity does not knock, it presents itself when you beat down the door.
+author: William Butler Yeats
+
+month: 6
+day: 27
+content: I am not afraid... I was born to do this.
+author: Joan of Arc
+
+month: 6
+day: 28
+content: Even if you fall on your face, you're still moving forward.
+author: Victor Kiam
+
+month: 6
+day: 29
+content: I attribute my success to this - I never gave or took any excuse.
+author: Florence Nightingale
+
+month: 6
+day: 30
+content: You simply have to put one foot in front of the other and keep going. Put blinders on and plow right ahead.
+author: George Lucas
+
+month: 6
+day: 31
+content: You just can't beat the person who never gives up.
+author: Babe Ruth
+
+month: 7
+day: 1
+content: Either I will find a way, or I will make one.
+author: Philip Sidney
+
+month: 7
+day: 2
+content: The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.
+author: Mark Caine
+
+month: 7
+day: 3
+content: One way to keep momentum going is to have constantly greater goals.
+author: Michael Korda
+
+month: 7
+day: 4
+content: Every exit is an entry somewhere else.
+author: Tom Stoppard
+
+month: 7
+day: 5
+content: Deserve your dream.
+author: Octovio Paz
+
+month: 7
+day: 6
+content: To be a good loser is to learn how to win.
+author: Carl Sandburg
+
+month: 7
+day: 7
+content: It's always too early to quit.
+author: Norman Vincent Peale
+
+month: 7
+day: 8
+content: You will never win if you never begin.
+author: Helen Rowland
+
+month: 7
+day: 9
+content: They can conquer who believe they can.
+author: Virgil
+
+month: 7
+day: 10
+content: You need to overcome the tug of people against you as you reach for high goals.
+author: George S. Patton
+
+month: 7
+day: 11
+content: Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing.
+author: Thomas Jefferson
+
+month: 7
+day: 12
+content: Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.
+author: Denis Waitley
+
+month: 7
+day: 13
+content: You can't wait for inspiration. You have to go after it with a club.
+author: Jack London
+
+month: 7
+day: 14
+content: True happiness involves the full use of one's power and talents.
+author: John W. Gardner
+
+month: 7
+day: 15
+content: Defeat is not the worst of failures. Not to have tried is the true failure.
+author: George Edward Woodberry
+
+month: 7
+day: 16
+content: Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.
+author: Yoko Ono
+
+month: 7
+day: 17
+content: A smile is happiness you'll find right under your nose.
+author: Tom Wilson
+
+month: 7
+day: 18
+content: The real man smiles in trouble, gathers strength from distress, and grows brave by reflection.
+author: Thomas Paine
+
+month: 7
+day: 19
+content: Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
+author: Pele
+
+month: 7
+day: 20
+content: Success is getting what you want. Happiness is wanting what you get.
+author: Dale Carnegie
+
+month: 7
+day: 21
+content: Success is not final, failure is not fatal: it is the courage to continue that counts.
+author: Winston Churchill
+
+month: 7
+day: 22
+content: Coming together is a beginning; keeping together is progress; working together is success.
+author: Henry Ford
+
+month: 7
+day: 23
+content: Try not to become a man of success, but rather try to become a man of value.
+author: Albert Einstein
+
+month: 7
+day: 24
+content: Some people dream of success, while other people get up every morning and make it happen.
+author: Wayne Huizenga
+
+month: 7
+day: 25
+content: Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+author: Albert Schweitzer
+
+month: 7
+day: 26
+content: Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come.
+author: Dwayne Johnson
+
+month: 7
+day: 27
+content: Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+author: Bruce Lee
+
+month: 7
+day: 28
+content: A strong, positive self-image is the best possible preparation for success.
+author: Joyce Brothers
+
+month: 7
+day: 29
+content: Success is a journey, not a destination. The doing is often more important than the outcome.
+author: Arthur Ashe
+
+month: 7
+day: 31
+content: All you need in this life is ignorance and confidence, and then success is sure.
+author: Mark Twain
+
+month: 8
+day: 1
+content: Happiness lies in the joy of achievement and the thrill of creative effort.
+author: Franklin D. Roosevelt
+
+month: 8
+day: 2
+content: The supreme quality for leadership is unquestionably integrity. Without it, no real success is possible, no matter whether it is on a section gang, a football field, in an army, or in an office.
+author: Dwight D. Eisenhower
+
+month: 8
+day: 3
+content: Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.
+author: Helen Keller
+
+month: 8
+day: 4
+content: Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
+author: Dale Turner
+
+month: 8
+day: 5
+content: Education is the key to success in life, and teachers make a lasting impact in the lives of their students.
+author: Solomon Ortiz
+
+month: 8
+day: 6
+content: Success consists of going from failure to failure without loss of enthusiasm.
+author: Winston Churchill
+
+month: 8
+day: 7
+content: Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+author: Bill Gates
+
+month: 8
+day: 8
+content: Without continual growth and progress, such words as improvement, achievement, and success have no meaning.
+author: Benjamin Franklin
+
+month: 8
+day: 9
+content: We must let go of the life we have planned, so as to accept the one that is waiting for us.
+author: Joseph Campbell
+
+month: 8
+day: 10
+content: The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.
+author: Helen Keller
+
+month: 8
+day: 11
+content: I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+author: Jimmy Dean
+
+month: 8
+day: 12
+content: The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
+author: Steve Jobs
+
+month: 8
+day: 13
+content: Happiness is not something you postpone for the future; it is something you design for the present.
+author: Jim Rohn
+
+month: 8
+day: 14
+content: My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.
+author: Maya Angelou
+
+month: 8
+day: 15
+content: Today I choose life. Every morning when I wake up I can choose joy, happiness, negativity, pain... To feel the freedom that comes from being able to continue to make mistakes and choices - today I choose to feel life, not to deny my humanity but embrace it.
+author: Kevyn Aucoin
+
+month: 8
+day: 16
+content: Keep your face always toward the sunshine - and shadows will fall behind you.
+author: Walt Whitman
+
+month: 8
+day: 17
+content: Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.
+author: Buddha
+
+month: 8
+day: 18
+content: Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.
+author: Rabindranath Tagore
+
+month: 8
+day: 19
+content: Nothing is impossible, the word itself says 'I'm possible'!
+author: Audrey Hepburn
+
+month: 8
+day: 20
+content: What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.
+author: Ralph Waldo Emerson
+
+month: 8
+day: 21
+content: As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+author: John F. Kennedy
+
+month: 8
+day: 22
+content: Believe you can and you're halfway there.
+author: Theodore Roosevelt
+
+month: 8
+day: 23
+content: Try to be a rainbow in someone's cloud.
+author: Maya Angelou
+
+month: 8
+day: 24
+content: Someone is sitting in the shade today because someone planted a tree a long time ago.
+author: Warren Buffett
+
+month: 8
+day: 25
+content: Every man's life is a fairy tale written by God's fingers.
+author: Hans Christian Andersen
+
+month: 8
+day: 26
+content: Perfection is not attainable, but if we chase perfection we can catch excellence.
+author: Vince Lombardi
+
+month: 8
+day: 27
+content: We know what we are, but know not what we may be.
+author: William Shakespeare
+
+month: 8
+day: 28
+content: Change your thoughts and you change your world.
+author: Norman Vincent Peale
+
+month: 8
+day: 29
+content: Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.
+author: Francis of Assisi
+
+month: 8
+day: 30
+content: A hero is someone who has given his or her life to something bigger than oneself.
+author: Joseph Campbell
+
+month: 9
+day: 1
+content: It is during our darkest moments that we must focus to see the light.
+author: Aristotle
+
+month: 9
+day: 2
+content: If opportunity doesn't knock, build a door.
+author: Milton Berle
+
+month: 9
+day: 3
+content: No act of kindness, no matter how small, is ever wasted.
+author: Aesop
+
+month: 9
+day: 4
+content: Let us make our future now, and let us make our dreams tomorrow's reality.
+author: Malala Yousafzai
+
+month: 9
+day: 5
+content: If you believe in yourself and have dedication and pride - and never quit, you'll be a winner. The price of victory is high but so are the rewards.
+author: Paul Bryant
+
+month: 9
+day: 6
+content: I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'
+author: Muhammad Ali
+
+month: 9
+day: 7
+content: Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.
+author: Buddha
+
+month: 9
+day: 8
+content: All you need is the plan, the road map, and the courage to press on to your destination.
+author: Nightingale
+
+month: 9
+day: 9
+content: There are two ways of spreading light: to be the candle or the mirror that reflects it.
+author: Edith Wharton
+
+month: 9
+day: 10
+content: It is in your moments of decision that your destiny is shaped.
+author: Tony Robbins
+
+month: 9
+day: 11
+content: No matter what people tell you, words and ideas can change the world.
+author: Robin Williams
+
+month: 9
+day: 12
+content: To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless.
+author: Gilbert K. Chesterton
+
+month: 9
+day: 13
+content: If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.
+author: Bruce Lee
+
+month: 9
+day: 14
+content: We can't help everyone, but everyone can help someone.
+author: Ronald Reagan
+
+month: 9
+day: 15
+content: I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+author: Og Mandino
+
+month: 9
+day: 16
+content: When we seek to discover the best in others, we somehow bring out the best in ourselves.
+author: William Arthur Ward
+
+month: 9
+day: 17
+content: It is never too late to be what you might have been.
+author: George Eliot
+
+month: 9
+day: 18
+content: When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.
+author: Wilma Rudolph
+
+month: 9
+day: 19
+content: Your present circumstances don't determine where you can go; they merely determine where you start.
+author: Nido Qubein
+
+month: 9
+day: 20
+content: Don't judge each day by the harvest you reap but by the seeds that you plant.
+author: Robert Louis Stevenson
+
+month: 9
+day: 21
+content: When you get into a tight place and everything goes against you, till it seems as though you could not hang on a minute longer, never give up then, for that is just the place and time that the tide will turn.
+author: Harriet Beecher Stowe
+
+month: 9
+day: 22
+content: How wonderful it is that nobody need wait a single moment before starting to improve the world.
+author: Anne Frank
+
+month: 9
+day: 23
+content: Thinking: the talking of the soul with itself.
+author: Plato
+
+month: 9
+day: 24
+content: There is nothing impossible to him who will try.
+author: Alexander the Great
+
+month: 9
+day: 25
+content: Tears of joy are like the summer rain drops pierced by sunbeams.
+author: Hosea Ballou
+
+month: 9
+day: 26
+content: Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which, if you will sit down quietly, may alight upon you.
+author: Nathaniel Hawthorne
+
+month: 9
+day: 27
+content: You must do the things you think you cannot do.
+author: Eleanor Roosevelt
+
+month: 9
+day: 28
+content: The power of imagination makes us infinite.
+author: John Muir
+
+month: 9
+day: 29
+content: Two roads diverged in a wood and I - I took the one less traveled by, and that has made all the difference.
+author: Robert Frost
+
+month: 9
+day: 30
+content: Memories of our lives, of our works and our deeds will continue in others.
+author: Rosa Parks
+
+month: 9
+day: 31
+content: Be brave enough to live life creatively. The creative place where no one else has ever been.
+author: Alan Alda
+
+month: 10
+day: 1
+content: The measure of who we are is what we do with what we have.
+author: Vince Lombardi
+
+month: 10
+day: 2
+content: If I have seen further than others, it is by standing upon the shoulders of giants.
+author: Isaac Newton
+
+month: 10
+day: 3
+content: Whoever is happy will make others happy too.
+author: Anne Frank
+
+month: 10
+day: 4
+content: Keep your feet on the ground, but let your heart soar as high as it will. Refuse to be average or to surrender to the chill of your spiritual environment.
+author: Arthur Helps
+
+month: 10
+day: 5
+content: From a small seed a mighty trunk may grow.
+author: Aeschylus
+
+month: 10
+day: 6
+content: Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.
+author: Anais Nin
+
+month: 10
+day: 7
+content: Keep all special thoughts and memories for lifetimes to come. Share these keepsakes with others to inspire hope and build from the past, which can bridge to the future.
+author: Mattie Stepanek
+
+month: 10
+day: 8
+content: Give light and people will find the way.
+author: Ella Baker
+
+month: 10
+day: 9
+content: Give light, and the darkness will disappear of itself.
+author: Desiderius Erasmus
+
+month: 10
+day: 10
+content: In a gentle way, you can shake the world.
+author: Mahatma Gandhi
+
+month: 10
+day: 11
+content: If we did all the things we are capable of, we would literally astound ourselves.
+author: Thomas A. Edison
+
+month: 10
+day: 12
+content: Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.
+author: E. E. Cummings
+
+month: 10
+day: 13
+content: Everyone here has the sense that right now is one of those moments when we are influencing the future.
+author: Steve Jobs
+
+month: 10
+day: 14
+content: Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.
+author: Martin Luther
+
+month: 10
+day: 15
+content: Grace is the beauty of form under the influence of freedom.
+author: Friedrich Schiller
+
+month: 10
+day: 16
+content: Tomorrow is the most important thing in life. Comes into us at midnight very clean. It's perfect when it arrives and it puts itself in our hands. It hopes we've learned something from yesterday.
+author: John Wayne
+
+month: 10
+day: 17
+content: The limits of the possible can only be defined by going beyond them into the impossible.
+author: Arthur C. Clarke
+
+month: 10
+day: 18
+content: The fact that I can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another's, smile at someone and receive a smile in return, are to me continual spiritual exercises.
+author: Leo Buscaglia
+
+month: 10
+day: 19
+content: A champion is someone who gets up when he can't.
+author: Jack Dempsey
+
+month: 10
+day: 20
+content: Find out who you are and be that person. That's what your soul was put on this Earth to be. Find that truth, live that truth and everything else will come.
+author: Ellen DeGeneres
+
+month: 10
+day: 21
+content: Out of difficulties grow miracles.
+author: Jean de la Bruyere
+
+month: 10
+day: 22
+content: The things that we love tell us what we are.
+author: Thomas Aquinas
+
+month: 10
+day: 23
+content: The best way out is always through.
+author: Robert Frost
+
+month: 10
+day: 24
+content: Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.
+author: Marcus Aurelius
+
+month: 10
+day: 25
+content: Love is a fruit in season at all times, and within reach of every hand.
+author: Mother Teresa
+
+month: 10
+day: 26
+content: Your big opportunity may be right where you are now.
+author: Napoleon Hill
+
+month: 10
+day: 27
+content: The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.
+author: Ben Okri
+
+month: 10
+day: 28
+content: Only those who have learned the power of sincere and selfless contribution experience life's deepest joy: true fulfillment.
+author: Tony Robbins
+
+month: 10
+day: 29
+content: If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.
+author: Henry David Thoreau
+
+month: 10
+day: 30
+content: How glorious a greeting the sun gives the mountains!
+author: John Muir
+
+month: 11
+day: 1
+content: To the mind that is still, the whole universe surrenders.
+author: Lao Tzu
+
+month: 11
+day: 2
+content: Every story I create, creates me. I write to create myself.
+author: Octavia E. Butler
+
+month: 11
+day: 3
+content: If you accept the expectations of others, especially negative ones, then you never will change the outcome.
+author: Michael Jordan
+
+month: 11
+day: 4
+content: When deeds speak, words are nothing.
+author: Pierre-Joseph Proudhon
+
+month: 11
+day: 5
+content: Thought is the wind, knowledge the sail, and mankind the vessel.
+author: Augustus Hare
+
+month: 11
+day: 6
+content: I have always believed, and I still believe, that whatever good or bad fortune may come our way we can always give it meaning and transform it into something of value.
+author: Hermann Hesse
+
+month: 11
+day: 7
+content: As knowledge increases, wonder deepens.
+author: Charles Morgan
+
+month: 11
+day: 8
+content: I am not afraid of tomorrow, for I have seen yesterday and I love today!
+author: William Allen White
+
+month: 11
+day: 9
+content: Reach for it. Push yourself as far as you can.
+author: Christa McAuliffe
+
+month: 11
+day: 10
+content: Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
+author: Democritus
+
+month: 11
+day: 11
+content: Each day provides its own gifts.
+author: Marcus Aurelius
+
+month: 11
+day: 12
+content: What we achieve inwardly will change outer reality.
+author: Plutarch
+
+month: 11
+day: 13
+content: Every moment and every event of every man's life on earth plants something in his soul.
+author: Thomas Merton
+
+month: 11
+day: 14
+content: Love the moment and the energy of that moment will spread beyond all boundaries.
+author: Corita Kent
+
+month: 11
+day: 15
+content: From what we get, we can make a living; what we give, however, makes a life.
+author: Arthur Ashe
+
+month: 11
+day: 16
+content: The world is full of magical things patiently waiting for our wits to grow sharper.
+author: Bertrand Russell
+
+month: 11
+day: 17
+content: The only journey is the one within.
+author: Rainer Maria Rilke
+
+month: 11
+day: 18
+content: A #2 pencil and a dream can take you anywhere.
+author: Joyce Meyer
+
+month: 11
+day: 19
+content: Ideas shape the course of history.
+author: John Maynard Keynes
+
+month: 11
+day: 20
+content: What great thing would you attempt if you knew you could not fail?
+author: Robert H. Schuller
+
+month: 11
+day: 21
+content: Everything you want is out there waiting for you to ask. Everything you want also wants you. But you have to take action to get it.
+author: Jules Renard
+
+month: 11
+day: 22
+content: Enthusiasm moves the world.
+author: Arthur Balfour
+
+month: 11
+day: 23
+content: And when I breathed, my breath was lightning.
+author: Black Elk
+
+month: 11
+day: 24
+content: When you have a dream, you've got to grab it and never let go.
+author: Carol Burnett
+
+month: 11
+day: 25
+content: Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.
+author: Desmond Tutu
+
+month: 11
+day: 26
+content: Wonder rather than doubt is the root of all knowledge.
+author: Abraham Joshua Heschel
+
+month: 11
+day: 27
+content: I dwell in possibility.
+author: Emily Dickinson
+
+month: 11
+day: 28
+content: Live your beliefs and you can turn the world around.
+author: Henry David Thoreau
+
+month: 11
+day: 29
+content: Courage, my friends; 'tis not too late to build a better world.
+author: Tommy Douglas
+
+month: 11
+day: 30
+content: Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.
+author: Marcus Aurelius
+
+month: 11
+day: 31
+content: Every new beginning comes from some other beginning's end.
+author: Seneca
+
+END

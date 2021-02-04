@@ -1,0 +1,40 @@
+<ion-view view-title="Settings">
+  <ion-content scroll="false">
+	<div class="blurred-bg"></div>
+	<div class="profile-container">
+		<ion-scroll direction="y">
+		<ion-refresher pulling-text="" on-refresh="refreshMe(true)"></ion-refresher>
+		<div class="name">{{ user.name }}</div>
+		<div class="username">@{{ user.username }}</div>
+		<div class="email">{{ user.email }}</div>
+		<div class="date">Joined {{ user.createdAt | DateFormat }}</div>
+		<div class="edit-settings">
+			<div class="edit-settings-header" id="edit-profile" ng-click="openEditSettings('editprofile')">
+				Edit Profile <i class="ion-edit"></i>
+				<div class="right" ng-show="showEditProfile">Close</div>
+				<div class="right" ng-show="!showEditProfile">Open</div>
+			</div>
+			<div ng-show="showEditProfile">
+				<input type="text" ng-model="edituser.name" placeholder="Full Name">
+				<input type="password" ng-model="edituser.password" placeholder="•••••••" id="edit-password">
+				<button class="button button-positive" type="submit" ng-click="saveEditProfile()">Save</button>
+			</div>
+		</div>
+		<div class="edit-settings">
+			<div class="edit-settings-header" id="toggle-memo-lock" ng-click="openEditSettings('togglememolock')">
+				Toggle Memo Lock <i class="ion-locked"></i>
+				<div class="right" ng-show="showToggleMemoLock">Close</div>
+				<div class="right" ng-show="!showToggleMemoLock">Open</div>
+			</div>
+			<div ng-show="showToggleMemoLock">
+				<!-- <input type="checkbox" name="lock" value="lock" id="lock" ng-model="locked"><label for="lock"> Check to enable a lock combo for your memo </label>
+				<input type="password" ng-model="togglememolock" placeholder="••••" onfocus="clickToggleMemoLock()">
+				<button class="button button-positive" type="submit" ng-click="saveEditProfile()">Save</button> -->
+				Coming soon! This new feature will allow you to set a lock combination for your memo to keep your dreams safe
+				from smartphone intruders.
+			</div>
+		</div>
+		</ion-scroll>
+	</div>
+</ion-content>
+</ion-view>

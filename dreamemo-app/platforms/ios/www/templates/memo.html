@@ -1,0 +1,55 @@
+<ion-modal-view>
+	<ion-header-bar>
+		<h1 class="title">Memo</h1>
+		<div class="secondary-header right">
+			<button class="btn btn-clear" ng-click="closeMemo()"><i class="ion-close" style="font-size: 2em;"></i></button>
+		</div>
+	</ion-header-bar>
+	<ion-content scroll="false">
+		<div class="blurred-bg"></div>
+		<div class="memo-container">
+			<div class="memo-navbar">
+				<div class="active" id="today" ng-click="switchMemo('today')">Today</div>
+				<div id="past" ng-click="switchMemo('past')">Past</div>
+			</div>
+			<ion-scroll direction="y" ng-show="memoView == 'past'">
+				<ion-refresher pulling-text="" on-refresh="refreshMe(true)"></ion-refresher>
+				<div class="list">
+					<div class="memo-entry" ng-repeat="entry in entries | orderBy: '-created_at' : true" ng-if="entry.Date === today">
+						<div class="memo-entry-mood">
+							<button type="button" class="btn btn-clear" ng-show="entry.mood == 'sunny'" ng-disabled="true"><i class="ion-ios-sunny"></i></button>
+							<button type="button" class="btn btn-clear" ng-show="entry.mood == 'partlysunny'" ng-disabled="true"><i class="ion-ios-partlysunny"></i></button>
+							<button type="button" class="btn btn-clear" ng-show="entry.mood == 'cloudy'" ng-disabled="true"><i class="ion-ios-cloudy"></i></button>
+							<button type="button" class="btn btn-clear" ng-show="entry.mood == 'rainy'" ng-disabled="true"><i class="ion-ios-rainy"></i></button>
+							<button type="button" class="btn btn-clear" ng-show="entry.mood == 'thunderstorm'" ng-disabled="true"><i class="ion-ios-thunderstorm"></i></button>
+						</div>
+						<div class="memo-entry-date">{{ entry.updatedAt | DateFormat }}</div>
+						<div class="memo-entry-dream">I dreamed that {{ entry.dream }}</div>
+						<div class="memo-entry-feeling">I feel {{ entry.feeling }}</div>
+						<div class="memo-entry-signature">{{ user.username }}</div>
+					</div>
+				</div>
+				<div ng-show="entries.length == 0" style="padding: 5px;">None. Start writing in your dream memo today!</div>
+			</ion-scroll>
+			<ion-scroll direction="y" ng-show="memoView == 'today'">
+				<div class="memo-section">
+					<div class="memo-prompt">What was your dream last night?</div>
+					<textarea class="memo-response" rows='5' ng-model="editMemo.dream" placeholder="I dreamed that ..."></textarea>
+				</div>
+				<div class="memo-section">
+					<div class="memo-prompt">How are you feeling today?</div>
+					<textarea class="memo-response" rows='5' ng-model="editMemo.feeling" placeholder="I feel ..."></textarea>
+				</div>
+				<div class="memo-mood">
+					<div class="memo-prompt">How would you describe your mood today?</div>
+					<button type="button" class="btn btn-clear" id="mood-sunny" ng-click="selectMood('sunny')"><i class="ion-ios-sunny"></i></button>
+					<button type="button" class="btn btn-clear" id="mood-partlysunny" ng-click="selectMood('partlysunny')"><i class="ion-ios-partlysunny"></i></button>
+					<button type="button" class="btn btn-clear" id="mood-cloudy" ng-click="selectMood('cloudy')"><i class="ion-ios-cloudy"></i></button>
+					<button type="button" class="btn btn-clear" id="mood-rainy" ng-click="selectMood('rainy')"><i class="ion-ios-rainy"></i></button>
+					<button type="button" class="btn btn-clear" id="mood-thunderstorm" ng-click="selectMood('thunderstorm')"><i class="ion-ios-thunderstorm"></i></button>
+				</div>
+          		<button class="button button-block button-positive submit" type="submit" ng-click="saveMemo()">Save</button>
+			</ion-scroll>
+		</div>
+	</ion-content>
+</ion-modal-view>

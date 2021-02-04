@@ -1,0 +1,585 @@
+/* Empty. Add your own CSS if you like */
+.scroll, ion-scroll {
+	height: 100%;
+}
+
+.scroll-view {
+	margin-top: 0px !important;
+}
+
+.spinner-ios, .spinner-ios-small, .scroll-refresher .ionic-refresher-content {
+	color: #fff;
+}
+
+.pane {
+	background-size: auto 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.body {
+	font-family: 'Open Sans', 'Roboto', sans-serif;
+}
+
+.bar .title {
+	color: #fff !important;
+	font-size: 2em;
+	font-weight: bold;
+	font-family: 'Satisfy', cursive;
+	left: 0px !important;
+	right: 0px !important;
+}
+
+.bar.sidemenu-bar {
+	z-index: 100;
+}
+
+.bar .buttons .button, .bar .button {
+	color: rgba(255, 255, 255, 0.75) !important;
+}
+
+.button.button-positive.active, .button.button-positive.activated {
+	border: none;
+}
+
+/* ADDED HEADER BAR TRANSPARENCY*/
+
+.bar.bar-header {
+  background: rgba(255,255,255,0);
+  border-bottom-width: 0;
+}
+ 
+.scroll-content {
+  overflow: visible !important;
+}
+ 
+.platform-ios.platform-cordova:not(.fullscreen) .has-header {
+  top:0px;
+}
+
+/* END ADDED HEADER BAR TRANSPARENCY */
+
+.menu .list {
+	position: absolute;
+	top: 64px;
+	width: 100%;
+}
+
+.menu .list .item {
+	background:none;
+	color: #fff;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+	border-top: 0px;
+	padding: 16px 0 16px 20px;
+}
+
+.menu .list .item:last-child {
+	border-bottom: 0px;
+	padding: 16px 20px;
+}
+
+.menu .list .item .item-content {
+	background: none;
+	padding: 0px;
+}
+
+.menu .list .item i {
+	position: absolute;
+	right: 0px;
+	padding: 0 20px;
+	font-size: 1.25em;
+}
+
+.login-container {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.15)), url(../img/rainy-window.jpg);
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	height: 100%;
+	padding-top: 40px;
+	color: #fff;
+}
+
+.login-container .item {
+	background: none;
+	color: #fff;
+	border: none;
+	margin: 10px 0;
+}
+
+.login-navbar, .login-container form {
+	position: relative;
+	bottom: -5%;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.login-container form {
+	height: 100%;
+}
+
+.login-container .item input {
+	margin-right: 20px;
+	background: rgba(255, 255, 255, 0.25);
+	border-radius: 5px;
+	padding: 5px;
+	color: #fff;
+}
+
+.login-container form .item button {
+	margin: 0px;
+}
+
+.login-container .title-icon {
+	border-radius: 50%;
+	width: 25%;
+	margin: auto;
+	display: block;
+}
+
+.login-container .title {
+	font-family: "Satisfy", cursive;
+	font-size: 3em;
+	text-align: center;
+	padding: 20px;
+}
+
+.login-container .caption {
+	font-family: 'Satisfy', cursive;
+	font-size: 1.5em;
+	color: #ddd;
+	text-align: center;
+}
+
+/* SLIDER BUTTON */
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {display:none;}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+/* END SLIDER BUTTON */
+
+.secondary-header.right {
+	position: absolute;
+	right: 0px;
+}
+
+.secondary-header .btn-clear {
+	padding: 0 20px !important;
+}
+
+.btn-clear {
+	border: none;
+	background: none;
+	color: #fff;
+	width: 18%;
+	padding: 0px;
+}
+
+.btn-clear.activated, .btn-clear.active {
+	background: none;
+}
+
+.submit-button {
+	padding: 6px 20px 5px 16px;
+}
+
+.mute-button {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	font-size: 1.5em;
+}
+
+.mute-button:focus, .mute-button:hover {
+	color: #fff;
+}
+
+.background-container {
+	text-align: center;
+	color: #fff;
+	padding: 20px 0 0 0;
+	margin-top: 64px;
+}
+
+.date-time {
+	font-size: 1em;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.greeting {
+	font-size: 2em;
+	line-height: 1em;
+	padding: 10px;
+}
+
+.quote {
+	position: absolute;
+	bottom: 80px;
+	padding: 10px 0;
+}
+
+.quote .quote-content {
+	font-size: 1.25em;
+	line-height: 1.25em;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.quote .quote-author {
+	font-size: 1em;
+	font-style: italic;
+}
+
+.footbar {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	padding: 10px;
+	//background: rgba(0, 0, 0, 0.5);
+}
+
+.footbar .button-container {
+	display: inline-block;
+	margin: 0 15px;
+}
+
+.footbar button {
+	font-size: 1.5em;
+	background: rgba(255, 255, 255, 0.75);
+	color: rgba(0, 0, 0, 0.75);
+	border-radius: 50%;
+	width: 40px;
+	height: 40px;
+}
+
+.footbar .button-description {
+	color: #fff;
+}
+
+.song-playlist {
+	position: absolute;
+	top: 0px;
+	color: #fff;
+	//text-shadow: 3px 3px #222;
+	padding: 10px;
+	width: 100%;
+}
+
+.song {
+	border-bottom: 1px solid #fff;
+	padding: 10px 5px;
+}
+
+.song .song-number {
+	display: inline-block;
+	font-size: 1.5em;
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.song .song-title {
+	font-weight: bold;
+	position: relative;
+	top: -20px;
+	padding-left: 20px;
+}
+
+.song .song-artist {
+	position: relative;
+	top: -20px;
+	padding-left: 20px;
+}
+
+.blurred-bg {
+	filter: blur(3px);
+	background-size: auto 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: -10px 0px 0px -10px;
+	width: 110%;
+	height: 110%;
+}
+
+.info {
+	position: absolute;
+	bottom: 0px;
+	color: #fff;
+	font-size: 0.9em;
+	padding: 16px;
+}
+
+.memo-container {
+	position: absolute;
+	top: 0px;
+	color: #fff;
+	font-size: 1em;
+	padding: 15px;
+	margin-top: 50px;
+	width: 100%;
+	height: 100%;
+}
+
+.memo-container .scroll {
+	height: 120%;
+}
+
+.memo-container button.submit, .memo-container .memo-entry:last-child {
+	margin-bottom: 100px;
+}
+
+.memo-section, .memo-mood {
+	padding: 10px 5px;
+}
+
+.memo-response {
+	width: 100%;
+	margin-right: 20px;
+	margin-top: 10px;
+	background: rgba(255, 255, 255, 0.15);
+	border-radius: 5px;
+	padding: 5px;
+	color: #fff;
+}
+
+.memo-mood button {
+	font-size: 3em;
+}
+
+.memo-mood button.selected {
+	color: #387ef5;
+}
+
+.login-navbar {
+	padding: 10px;
+}
+
+.memo-navbar div, .login-navbar div {
+	border-bottom: 2px solid #ffffff;
+	display: inline-block;
+	margin: 0 5px;
+	width: 45%;
+	text-align: center;
+}
+
+.memo-navbar div.active, .login-navbar div.active {
+	color: #00cc00;
+	border-bottom: 2px solid #00cc00;
+}
+
+.memo-entry {
+	padding: 10px;
+	background: rgba(255, 255, 255, 0.15);
+	border-radius: 5px;
+	margin: 15px 0;
+}
+
+.memo-entry .memo-entry-mood {
+	display: inline-block;
+	text-align: left;
+	width: 50%;
+}
+
+.memo-entry .memo-entry-mood button {
+	font-size: 1.75em;
+}
+
+.memo-entry .memo-entry-date {
+	display: inline-block;
+	text-align: right;
+	width: 48%;
+}
+
+
+.memo-entry .memo-entry-dream, .memo-entry .memo-entry-feeling {
+	margin: 15px 0;
+}
+
+.memo-entry .memo-entry-signature {
+	text-align: right;
+	font-style: italic;
+}
+
+.note, .profile-container {
+	position: absolute;
+	top: 64px;
+	color: #fff;
+	padding: 30px 10px;
+	width: 100%;
+}
+
+.profile-container {
+	text-align: center;
+}
+
+.profile-container .name {
+	font-size: 2em;
+	padding: 5px;
+}
+
+.profile-container .username {
+	font-size: 1.25em;
+	padding: 5px;
+}
+
+.profile-container .date {
+	padding: 5px;
+}
+
+.about-container {
+	position: absolute;
+	top: 64px;
+	text-align: center;
+}
+
+.about-container .title-icon {
+	width: 25%;
+	border-radius: 50%;
+	margin: 20px;
+}
+
+.about-container .title {
+	font-size: 2em;
+	color: #fff;
+	padding: 10px;
+}
+
+.about-container .version {
+	color: rgba(255, 255, 255, 0.75);
+}
+
+.about-container .message {
+	color: #fff;
+	padding: 20px;
+}
+
+.about-container .credits {
+	color: #fff;
+}
+
+.about-container .footer-message {
+	color: rgba(255, 255, 255, 0.75);
+}
+
+.notifications-container {
+	position: absolute;
+	top: 64px;
+	width: 100%;
+}
+
+.notifications-container .list .item {
+	background: none;
+	border: none;
+	color: #fff;
+	padding: 10px 20px 10px 30px;
+}
+
+.notifications-container .list .item-toggle {
+	background: none;
+	border: none;
+	display: inline-block;
+	width: 25%;
+	padding: 21px;
+}
+
+.notifications-container .list .item .input-label {
+	color: #fff;
+}
+
+.notifications-container .list .item .item-description {
+	display: inline-block;
+	color: rgba(255, 255, 255, 0.75);
+	font-size: 0.8em;
+	width: 75%;
+	white-space: initial;
+}
+
+.edit-settings {
+	margin-top: 20px;
+	text-align: left;
+	padding: 5px 20px;
+}
+
+.edit-settings .edit-settings-header {
+	padding: 5px;
+	background: rgba(0, 0, 0, 0);
+	border-bottom: 3px solid rgba(0, 0, 0, 0.25);
+}
+
+.edit-settings .edit-settings-header .right {
+	position: absolute;
+	padding-right: 25px;
+	right: 0px;
+	display: inline-block;
+}
+
+.edit-settings .edit-settings-header.active {
+	background: rgba(0, 0, 0, 0.25);
+	border-radius: 5px;
+}
+
+.edit-settings input {
+	width: 100%;
+	margin-right: 20px;
+	margin-top: 10px;
+	background: rgba(255, 255, 255, 0.15);
+	border-radius: 5px;
+	padding: 5px;
+	color: #fff;
+}
+
+.edit-settings button {
+	margin-top: 10px;
+}
